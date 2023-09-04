@@ -20,6 +20,8 @@ git log
 git push
 ```
 Bohdan: new changes.
+
 Bohdan: new txt.
+
 
 
