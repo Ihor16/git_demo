@@ -1,2 +1,3 @@
-# git_demo
-Git &amp; GitHub Demo
+# GIT_DEMO
+
+Some new docs.
