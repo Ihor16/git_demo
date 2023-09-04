@@ -19,3 +19,4 @@ git log
 ```bash
 git push
 ```
+Bohdan: new changes.
