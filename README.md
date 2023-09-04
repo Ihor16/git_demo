@@ -10,8 +10,10 @@ git clone <github-url>
 - Add changes to Git's history:
 ```bash
 git status
+git diff
 git add <file-name>
 git commit -m "<git-message>"
+git logs
 ```
 - Send files to GitHub.
 ```bash
