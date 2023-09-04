@@ -13,7 +13,7 @@ git status
 git diff
 git add <file-name>
 git commit -m "<git-message>"
-git logs
+git log
 ```
 - Send files to GitHub.
 ```bash
