@@ -2,6 +2,10 @@
 
 Some new docs.
 
+- Clone the repository.
+```bash
+git clone <github-url>
+```
 - Make changes.
 - Add changes to Git's history:
 ```bash
